@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    android:backgroundTint="#27CABE5A"
+    android:background="#EC8282">
+    <TextView
+        android:id="@+id/firstl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:textAlignment="center"
+        android:text="@string/firstL"
+        android:textSize="28dp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/secondL"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:textStyle="normal"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/enginecap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Engine Capacity"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:textStyle="normal"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/txttransmission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Transmission"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:textStyle="normal"
+        android:textColor="@color/black"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Car Finder</string>
+    <string name="description">Enter the details of your choice </string>
+    <string-array name="spinnerList">
+        <item>Budget</item>
+        <item>Below 5Lakhs</item>
+        <item>5 to 10Lakhs</item>
+        <item>10 to 20Lakhs</item>
+    </string-array>
+    <string name="firstL"> Hey, Buddy Great Choice</string>
+    <string name="secondL">[1]While petrol cars give good initial power, diesel cars provide higher performance in higher gears. On the other hand, diesel cars provide a higher fuel efficiency in comparison with petrol cars. This means that if you have to drive short distances within the city, a petrol car would make much more sense.</string>
+</resources>
